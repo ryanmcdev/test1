@@ -1,0 +1,14 @@
+{
+  "name": "test1",
+  "version": "1.0.0",
+  "description": "ryan test proj",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "ryan.mcgregor@wolterskluwer.com",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^2.5.3"
+  }
+}
